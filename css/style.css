@@ -1,0 +1,162 @@
+.color1 {color: #1a7f78;}
+.color2 {color: #1d8848;}
+.color3 {color: #849a43;}
+.color4 {color: #d3b47e;}
+.color5 {color: #e5c6b2;} 
+
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+}
+header, footer {
+    display: flex;
+    background-color: #1d8848;
+}
+
+header {
+    justify-content: space-between;
+
+}
+
+footer {
+    justify-content: center;
+    padding: 10px;
+}
+
+.logo-img {
+    background-color: #1d8848;
+    margin-left: 25px;
+    align-self:center; 
+}
+
+ul {
+    display: flex;
+    gap: 20px;
+    list-style-type: none;
+    margin-right: 25px;
+    font-size: 25px;
+    font-weight: 800;
+}
+
+a {
+    text-decoration: none;
+    color:#d3b47e;
+}
+
+.top-message {
+    display: flex;
+    background-color: #1d8848;
+    justify-content: center;
+
+}
+
+.message {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.message h1 {
+    margin: 0px;
+    
+}
+
+.message p {
+    display: flex;
+    max-width: 400px;
+}
+
+.top-message img {
+    border: 2px solid black;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    box-shadow: 1px 1px 3px silver;
+
+}
+
+button {
+    font-size: medium;
+    border-radius: 10px;
+    padding: 10px;
+    background-color: #d3b47e;
+    border: 3px solid black;
+    cursor:pointer;
+    width: 125px;
+    height: 45px;
+}
+
+h2 {
+    margin: 50px auto 50px auto;
+    font-size: 38px;
+    font-weight: 900;
+}
+
+.information {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin-bottom: 100px;
+    gap: 10px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 300px;
+    
+}
+
+.text {
+    padding: 10px;
+}
+
+
+.info img {
+    border: 2px solid black;
+    display: flex;
+    border-radius: 20px;
+}
+
+.quote {
+    display: flex;
+    flex-direction: column;
+    background-color: #D1E7DA;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 60px 200px;
+    font-style: italic;
+    font-size: 18px;
+    margin: 0;
+}
+
+.down-message {
+    display: flex;
+    width: 800px;
+    height: 150px;
+    justify-content: flex-start;
+    text-align: left;
+    background-color: #849a43;
+    margin: 50px auto;
+    padding-left: 50px;
+    
+}
+
+.down-content {
+    font-size: 15px;
+    margin: auto;
+    margin-right: 0;
+}
+
+h3 {
+    font-size: 23px;
+}
+
+.down-message button {
+    margin: auto;
+    margin-left: 30px;
+}
+    
