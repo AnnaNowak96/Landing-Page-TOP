@@ -5,8 +5,9 @@ Then in the center should be 4 options with 4 pictures. All should be centered.
 Below should be a quote with different style and background-color. Under that should be a last box with some encouraging text and button so the user could easly click on it. Lastly on the bottom of the page should be a footer.  
 Here are screenshots:  
 ![page](https://github.com/AnnaNowak96/Landing-Page-TOP/assets/151517110/6edd84ab-c936-410f-a918-6015c0776ce0)
-![page_1](https://github.com/AnnaNowak96/Landing-Page-TOP/assets/151517110/d70e2002-c0b6-4e0b-b8c7-e294dad9365a)
-![page_2](https://github.com/AnnaNowak96/Landing-Page-TOP/assets/151517110/a7f128be-897e-473e-ab72-3ec6ab5aaad6)
+![page_1](https://github.com/AnnaNowak96/Landing-Page-TOP/assets/151517110/a3e20f0b-c09b-4b3d-b5c6-18e95ebea9e7)
+![page_2](https://github.com/AnnaNowak96/Landing-Page-TOP/assets/151517110/5c643b05-fab6-4f84-9921-c9ee8e9a9fa8)
+
 
 
 Source of images:  
