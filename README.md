@@ -1,4 +1,5 @@
-# Landing-Page-TOP
+# Landing-Page-TOP  
+Project created during The Odin Project course (TOP)  
 The Odin Project. Goal is to create a landing page for a petsitter website.\
 The page has to have logo on the left side, some links to "about" etc on the right side. An image, a text next to it and a button.  
 Then in the center should be 4 options with 4 pictures. All should be centered.  
